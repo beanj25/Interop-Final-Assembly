@@ -1,0 +1,1 @@
+introduction2("Lua in asm")
